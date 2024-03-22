@@ -2,4 +2,5 @@ fdsafasdfasdf
 fsdafasdfsadfasdfasd
 comentario branch3
 este é um comentario
+Este é um teste de conflito na branch modif_2
 Comentario da modificação da branch modif_1
